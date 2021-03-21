@@ -2,7 +2,7 @@
   {
     "name": "Le Alternative",
     "url": "https://www.lealternative.net",
-    "icon": "https://favicons.githubusercontent.com/www.lealternative.net",
+    "icon": "https://www.lealternative.net/wp-content/uploads/2020/05/cropped-logowhite-blu-favicon2-32x32.png",
     "slug": "le-alternative",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1155,
-    "timeDay": 1155,
-    "timeWeek": 1155,
-    "timeMonth": 1155,
-    "timeYear": 1155,
+    "time": 959,
+    "timeDay": 959,
+    "timeWeek": 959,
+    "timeMonth": 959,
+    "timeYear": 959,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1251,
-    "timeDay": 1251,
-    "timeWeek": 1251,
-    "timeMonth": 1251,
-    "timeYear": 1251,
+    "time": 1133,
+    "timeDay": 1133,
+    "timeWeek": 1133,
+    "timeMonth": 1133,
+    "timeYear": 1133,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 709,
-    "timeDay": 709,
-    "timeWeek": 709,
-    "timeMonth": 709,
-    "timeYear": 709,
+    "time": 651,
+    "timeDay": 651,
+    "timeWeek": 651,
+    "timeMonth": 651,
+    "timeYear": 651,
     "dailyMinutesDown": {}
   }
 ]
