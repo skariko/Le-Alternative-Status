@@ -30,7 +30,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Homepage
       href: https://www.lealternative.net
-    - title: Gruppo **Telegram**
+    - title: Gruppo Telegram
       href: https://t.me/LeAlternativeGruppoUfficiale
 
 # Upptime also supports notifications, assigning issues, and more
