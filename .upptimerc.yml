@@ -9,16 +9,18 @@ sites:
     icon: https://www.lealternative.net/wp-content/uploads/2020/05/cropped-logowhite-blu-favicon2-32x32.png
   - name: Privacy Test
     url: https://privacytest.lealternative.net
+    icon: https://www.lealternative.net/wp-content/uploads/2021/03/logowhite-blu-test.png
   - name: Bot Telegram
     url: $SECRET_SITE
+    icon: https://www.lealternative.net/wp-content/uploads/2021/03/logowhite-bot.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /Le-Alternative-Status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://www.lealternative.net/wp-content/uploads/2020/05/cropped-logowhite-blu.png
+  name: Le Alternative | Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
