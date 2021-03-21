@@ -6,6 +6,7 @@ repo: Le-Alternative-Status
 sites:
   - name: Le Alternative
     url: https://www.lealternative.net
+    icon: https://www.lealternative.net/wp-content/uploads/2020/05/cropped-logowhite-blu-favicon2-32x32.png
   - name: Privacy Test
     url: https://privacytest.lealternative.net
   - name: Bot Telegram
