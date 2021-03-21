@@ -21,13 +21,17 @@ status-website:
   baseUrl: /Le-Alternative-Status
   logoUrl: https://www.lealternative.net/wp-content/uploads/2020/05/cropped-logowhite-blu.png
   name: Le Alternative | Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Le Alternative**, ecco lo stato dei nostri servizi"
+  introMessage: Questo servizio funziona attraverso le GitHub Actions. Quando un servizio non funziona viene aperta in automatico una *issue* su [GitHub](https://github.com/woodruffandtheschnibbleofazimuth/Le-Alternative-Status)
   navbar:
     - title: Status
       href: /Le-Alternative-Status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Homepage
+      href: https://www.lealternative.net
+    - title: Gruppo **Telegram**
+      href: https://t.me/LeAlternativeGruppoUfficiale
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
